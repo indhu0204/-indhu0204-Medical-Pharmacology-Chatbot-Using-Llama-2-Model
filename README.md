@@ -1,1 +1,1 @@
-Medical-Pharmacology-Chatbot-Using-Llama-2-Model
+# Medical-studies-chatbot-using-llama2
